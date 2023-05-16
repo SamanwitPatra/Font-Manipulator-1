@@ -1,0 +1,22 @@
+.canvas
+{
+    border: 10px goldenrod;
+    box-shadow: 5px 5px 5px black;
+   
+
+}
+.copy_right_footer {
+    position:fixed;
+    color: aliceblue;
+    bottom: 0;
+    width:100%;
+    background-color: grey;
+    line-height: 4;
+    text-align: center;
+}
+.heading
+{
+    font-size: 24px;
+    width: 100%;
+    box-shadow: 5px 5px 5px gray;
+}
